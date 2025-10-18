@@ -7,9 +7,6 @@
 
 import Foundation
 
-<<<<<<< HEAD
-print("Hello, Swift!")
-=======
 // Hello World
 let helloWorld: HelloWorld = HelloWorld()
 helloWorld.printHelloWorld()
@@ -19,5 +16,3 @@ let star: Star = Star()
 star.printStar()
 
 // Variables
->>>>>>> 96fb437 (Initial Commit)
-
