@@ -7,12 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-<<<<<<< HEAD
-=======
 		86174C732EA3B62D00919323 /* Star.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86174C722EA3B62B00919323 /* Star.swift */; };
 		86174C752EA3B7C600919323 /* HelloWorld.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86174C742EA3B7B400919323 /* HelloWorld.swift */; };
 		86174C7A2EA3C06A00919323 /* Variables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86174C792EA3C06700919323 /* Variables.swift */; };
->>>>>>> 96fb437 (Initial Commit)
 		86B5FF032EA28EBB001BEA55 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86B5FF022EA28EBB001BEA55 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -29,12 +26,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-<<<<<<< HEAD
-=======
 		86174C722EA3B62B00919323 /* Star.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Star.swift; sourceTree = "<group>"; };
 		86174C742EA3B7B400919323 /* HelloWorld.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorld.swift; sourceTree = "<group>"; };
 		86174C792EA3C06700919323 /* Variables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Variables.swift; sourceTree = "<group>"; };
->>>>>>> 96fb437 (Initial Commit)
 		86B5FEFF2EA28EBB001BEA55 /* Swift_Language */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swift_Language; sourceTree = BUILT_PRODUCTS_DIR; };
 		86B5FF022EA28EBB001BEA55 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -50,8 +44,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-<<<<<<< HEAD
-=======
 		86174C712EA3B62500919323 /* First */ = {
 			isa = PBXGroup;
 			children = (
@@ -69,7 +61,6 @@
 			path = Variables;
 			sourceTree = "<group>";
 		};
->>>>>>> 96fb437 (Initial Commit)
 		86B5FEF62EA28EBB001BEA55 = {
 			isa = PBXGroup;
 			children = (
@@ -89,11 +80,8 @@
 		86B5FF012EA28EBB001BEA55 /* Swift_Language */ = {
 			isa = PBXGroup;
 			children = (
-<<<<<<< HEAD
-=======
 				86174C782EA3C04C00919323 /* Variables */,
 				86174C712EA3B62500919323 /* First */,
->>>>>>> 96fb437 (Initial Commit)
 				86B5FF022EA28EBB001BEA55 /* main.swift */,
 			);
 			path = Swift_Language;
@@ -158,12 +146,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				86B5FF032EA28EBB001BEA55 /* main.swift in Sources */,
-<<<<<<< HEAD
-=======
 				86174C752EA3B7C600919323 /* HelloWorld.swift in Sources */,
 				86174C732EA3B62D00919323 /* Star.swift in Sources */,
 				86174C7A2EA3C06A00919323 /* Variables.swift in Sources */,
->>>>>>> 96fb437 (Initial Commit)
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -230,10 +215,7 @@
 				SDKROOT = macosx;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-<<<<<<< HEAD
-=======
 				SWIFT_VERSION = 6.0;
->>>>>>> 96fb437 (Initial Commit)
 			};
 			name = Debug;
 		};
@@ -289,10 +271,7 @@
 				MTL_FAST_MATH = YES;
 				SDKROOT = macosx;
 				SWIFT_COMPILATION_MODE = wholemodule;
-<<<<<<< HEAD
-=======
 				SWIFT_VERSION = 6.0;
->>>>>>> 96fb437 (Initial Commit)
 			};
 			name = Release;
 		};
@@ -303,11 +282,7 @@
 				DEVELOPMENT_TEAM = W5QL582HR5;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-<<<<<<< HEAD
-				SWIFT_VERSION = 5.0;
-=======
 				SWIFT_VERSION = 6.0;
->>>>>>> 96fb437 (Initial Commit)
 			};
 			name = Debug;
 		};
@@ -318,11 +293,7 @@
 				DEVELOPMENT_TEAM = W5QL582HR5;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-<<<<<<< HEAD
-				SWIFT_VERSION = 5.0;
-=======
 				SWIFT_VERSION = 6.0;
->>>>>>> 96fb437 (Initial Commit)
 			};
 			name = Release;
 		};
