@@ -16,3 +16,5 @@ let star: Star = Star()
 star.printStar()
 
 // Variables
+let variables: Variables = Variables()
+variables.variables()
