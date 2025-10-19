@@ -18,3 +18,13 @@ star.printStar()
 // Variables
 let variables: Variables = Variables()
 variables.variables()
+
+// Constants
+let constants: Constants = Constants()
+constants.constants()
+
+// String Interpolation
+let stringInterpolation: StringInterpolation = StringInterpolation()
+stringInterpolation.printStr()
+stringInterpolation.introduce()
+stringInterpolation.printInfo()
