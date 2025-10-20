@@ -28,3 +28,13 @@ let stringInterpolation: StringInterpolation = StringInterpolation()
 stringInterpolation.printStr()
 stringInterpolation.introduce()
 stringInterpolation.printInfo()
+
+// Data Type
+let basicType: BasicType = BasicType()
+basicType.basicType()
+
+let literal: Literal = Literal()
+literal.printLiteral()
+
+let typeInference: TypeInference = TypeInference()
+typeInference.printTypeInference()
