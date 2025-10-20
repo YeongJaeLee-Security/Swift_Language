@@ -15,6 +15,7 @@
 		86AF25102EA62116005FBDE7 /* BasicType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86AF250F2EA62112005FBDE7 /* BasicType.swift */; };
 		86AF25122EA62B31005FBDE7 /* Literal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86AF25112EA62B2F005FBDE7 /* Literal.swift */; };
 		86AF25142EA63039005FBDE7 /* TypeInference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86AF25132EA63035005FBDE7 /* TypeInference.swift */; };
+		86AF25182EA66C5E005FBDE7 /* Initialization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86AF25172EA66C59005FBDE7 /* Initialization.swift */; };
 		86B5FF032EA28EBB001BEA55 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86B5FF022EA28EBB001BEA55 /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -39,6 +40,7 @@
 		86AF250F2EA62112005FBDE7 /* BasicType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicType.swift; sourceTree = "<group>"; };
 		86AF25112EA62B2F005FBDE7 /* Literal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Literal.swift; sourceTree = "<group>"; };
 		86AF25132EA63035005FBDE7 /* TypeInference.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypeInference.swift; sourceTree = "<group>"; };
+		86AF25172EA66C59005FBDE7 /* Initialization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initialization.swift; sourceTree = "<group>"; };
 		86B5FEFF2EA28EBB001BEA55 /* Swift_Language */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swift_Language; sourceTree = BUILT_PRODUCTS_DIR; };
 		86B5FF022EA28EBB001BEA55 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -90,6 +92,7 @@
 		86AF250E2EA62107005FBDE7 /* DataType */ = {
 			isa = PBXGroup;
 			children = (
+				86AF25172EA66C59005FBDE7 /* Initialization.swift */,
 				86AF25132EA63035005FBDE7 /* TypeInference.swift */,
 				86AF25112EA62B2F005FBDE7 /* Literal.swift */,
 				86AF250F2EA62112005FBDE7 /* BasicType.swift */,
@@ -187,6 +190,7 @@
 				86AF25142EA63039005FBDE7 /* TypeInference.swift in Sources */,
 				86174C7D2EA4DDCF00919323 /* Constants.swift in Sources */,
 				86B5FF032EA28EBB001BEA55 /* main.swift in Sources */,
+				86AF25182EA66C5E005FBDE7 /* Initialization.swift in Sources */,
 				86174C752EA3B7C600919323 /* HelloWorld.swift in Sources */,
 				86174C802EA4E39400919323 /* StringInterpolation.swift in Sources */,
 				86AF25102EA62116005FBDE7 /* BasicType.swift in Sources */,

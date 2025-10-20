@@ -38,3 +38,6 @@ literal.printLiteral()
 
 let typeInference: TypeInference = TypeInference()
 typeInference.printTypeInference()
+
+let initialization: Initialization = Initialization()
+initialization.declarationAndInitialization()
