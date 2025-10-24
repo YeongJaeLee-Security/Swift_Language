@@ -33,11 +33,14 @@ stringInterpolation.printInfo()
 let basicType: BasicType = BasicType()
 basicType.basicType()
 
+// Literal (데이터 표현 방식)
 let literal: Literal = Literal()
 literal.printLiteral()
 
+// Type Inference & Type Annotation (타입 추론 & 타입 주석)
 let typeInference: TypeInference = TypeInference()
 typeInference.printTypeInference()
 
+// Declaration & Initialization (선언과 초기화)
 let initialization: Initialization = Initialization()
 initialization.declarationAndInitialization()
