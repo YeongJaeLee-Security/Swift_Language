@@ -17,6 +17,7 @@
 		86AF25142EA63039005FBDE7 /* TypeInference.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86AF25132EA63035005FBDE7 /* TypeInference.swift */; };
 		86AF25182EA66C5E005FBDE7 /* Initialization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86AF25172EA66C59005FBDE7 /* Initialization.swift */; };
 		86B5FF032EA28EBB001BEA55 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86B5FF022EA28EBB001BEA55 /* main.swift */; };
+		EFE631202EAF7AFE0069AA05 /* BasicOperator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFE6311F2EAF7AFA0069AA05 /* BasicOperator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +44,7 @@
 		86AF25172EA66C59005FBDE7 /* Initialization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Initialization.swift; sourceTree = "<group>"; };
 		86B5FEFF2EA28EBB001BEA55 /* Swift_Language */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swift_Language; sourceTree = BUILT_PRODUCTS_DIR; };
 		86B5FF022EA28EBB001BEA55 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		EFE6311F2EAF7AFA0069AA05 /* BasicOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicOperator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 		86B5FF012EA28EBB001BEA55 /* Swift_Language */ = {
 			isa = PBXGroup;
 			children = (
+				EFE6311E2EAF7ADF0069AA05 /* Operator */,
 				86AF250E2EA62107005FBDE7 /* DataType */,
 				86174C7E2EA4E38600919323 /* StringInterpolation */,
 				86174C7B2EA4DDBF00919323 /* Constants */,
@@ -127,6 +130,14 @@
 				86B5FF022EA28EBB001BEA55 /* main.swift */,
 			);
 			path = Swift_Language;
+			sourceTree = "<group>";
+		};
+		EFE6311E2EAF7ADF0069AA05 /* Operator */ = {
+			isa = PBXGroup;
+			children = (
+				EFE6311F2EAF7AFA0069AA05 /* BasicOperator.swift */,
+			);
+			path = Operator;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -193,6 +204,7 @@
 				86AF25182EA66C5E005FBDE7 /* Initialization.swift in Sources */,
 				86174C752EA3B7C600919323 /* HelloWorld.swift in Sources */,
 				86174C802EA4E39400919323 /* StringInterpolation.swift in Sources */,
+				EFE631202EAF7AFE0069AA05 /* BasicOperator.swift in Sources */,
 				86AF25102EA62116005FBDE7 /* BasicType.swift in Sources */,
 				86AF25122EA62B31005FBDE7 /* Literal.swift in Sources */,
 				86174C732EA3B62D00919323 /* Star.swift in Sources */,

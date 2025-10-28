@@ -44,3 +44,7 @@ typeInference.printTypeInference()
 // Declaration & Initialization (선언과 초기화)
 let initialization: Initialization = Initialization()
 initialization.declarationAndInitialization()
+
+// Basic Operator
+let basicOperator: BasicOperator = BasicOperator()
+basicOperator.basicOperator()
