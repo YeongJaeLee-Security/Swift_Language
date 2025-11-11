@@ -48,3 +48,11 @@ initialization.declarationAndInitialization()
 // Basic Operator
 let basicOperator: BasicOperator = BasicOperator()
 basicOperator.basicOperator()
+
+// Comparison Operator
+let comparisonOperator: ComparisonOperator = ComparisonOperator()
+comparisonOperator.comparisonOperator()
+
+// Logical Operator
+let logicalOpeartor: LogicalOperator = LogicalOperator()
+logicalOpeartor.logicalOperator()

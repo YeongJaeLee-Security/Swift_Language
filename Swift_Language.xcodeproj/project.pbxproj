@@ -18,6 +18,8 @@
 		86AF25182EA66C5E005FBDE7 /* Initialization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86AF25172EA66C59005FBDE7 /* Initialization.swift */; };
 		86B5FF032EA28EBB001BEA55 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86B5FF022EA28EBB001BEA55 /* main.swift */; };
 		EFE631202EAF7AFE0069AA05 /* BasicOperator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFE6311F2EAF7AFA0069AA05 /* BasicOperator.swift */; };
+		EFF9310D2EC354EC00DE11F9 /* ComparisonOperator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFF9310C2EC354E000DE11F9 /* ComparisonOperator.swift */; };
+		EFF9310F2EC3557000DE11F9 /* LogicalOperator.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFF9310E2EC3556A00DE11F9 /* LogicalOperator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +47,8 @@
 		86B5FEFF2EA28EBB001BEA55 /* Swift_Language */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swift_Language; sourceTree = BUILT_PRODUCTS_DIR; };
 		86B5FF022EA28EBB001BEA55 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		EFE6311F2EAF7AFA0069AA05 /* BasicOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicOperator.swift; sourceTree = "<group>"; };
+		EFF9310C2EC354E000DE11F9 /* ComparisonOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComparisonOperator.swift; sourceTree = "<group>"; };
+		EFF9310E2EC3556A00DE11F9 /* LogicalOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogicalOperator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +139,8 @@
 		EFE6311E2EAF7ADF0069AA05 /* Operator */ = {
 			isa = PBXGroup;
 			children = (
+				EFF9310E2EC3556A00DE11F9 /* LogicalOperator.swift */,
+				EFF9310C2EC354E000DE11F9 /* ComparisonOperator.swift */,
 				EFE6311F2EAF7AFA0069AA05 /* BasicOperator.swift */,
 			);
 			path = Operator;
@@ -200,6 +206,7 @@
 			files = (
 				86AF25142EA63039005FBDE7 /* TypeInference.swift in Sources */,
 				86174C7D2EA4DDCF00919323 /* Constants.swift in Sources */,
+				EFF9310D2EC354EC00DE11F9 /* ComparisonOperator.swift in Sources */,
 				86B5FF032EA28EBB001BEA55 /* main.swift in Sources */,
 				86AF25182EA66C5E005FBDE7 /* Initialization.swift in Sources */,
 				86174C752EA3B7C600919323 /* HelloWorld.swift in Sources */,
@@ -209,6 +216,7 @@
 				86AF25122EA62B31005FBDE7 /* Literal.swift in Sources */,
 				86174C732EA3B62D00919323 /* Star.swift in Sources */,
 				86174C7A2EA3C06A00919323 /* Variables.swift in Sources */,
+				EFF9310F2EC3557000DE11F9 /* LogicalOperator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
