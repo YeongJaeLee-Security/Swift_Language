@@ -56,3 +56,7 @@ comparisonOperator.comparisonOperator()
 // Logical Operator
 let logicalOpeartor: LogicalOperator = LogicalOperator()
 logicalOpeartor.logicalOperator()
+
+// StatementAndExpression
+let statementAndExpression: StatementAndExpression = StatementAndExpression()
+statementAndExpression.statementAndExpression()
